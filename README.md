@@ -1,4 +1,4 @@
 # testrepo
 my first git testing
 
-I love :coffee:
+I love :coffee: and :pizza:W:
