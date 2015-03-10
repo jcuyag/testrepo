@@ -18,7 +18,7 @@ class TestSpider(unittest.TestCase):
 		self.assertEqual(2, 2)
 
 	def test_method_three(self):
-		self.assertNotEqual(2, 5)
-in
+		self.assertNotEqual(2, 6)
+
 if __name__ == '__main__':
 	unittest.main()
